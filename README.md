@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AK-3874
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bachelor of Science in Computer Science
+Senior Year
 
 <!---
 AK-3874/AK-3874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
